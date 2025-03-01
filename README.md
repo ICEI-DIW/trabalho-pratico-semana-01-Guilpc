@@ -7,7 +7,7 @@ Nome:Guilherme pereira da Costa
 Matricula: 892844 
 
 ## Tela de inspeção com navegador
-
+![](https://raw.githubusercontent.com/ICEI-DIW/trabalho-pratico-semana-01-Guilpc/refs/heads/main/Network.png)
 
 ## Tela de projeto no Replit
-
+![](https://raw.githubusercontent.com/ICEI-DIW/trabalho-pratico-semana-01-Guilpc/refs/heads/main/replit.png)
